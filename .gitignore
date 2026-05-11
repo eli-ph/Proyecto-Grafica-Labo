@@ -1,9 +1,6 @@
 .vs/
-Debug/
-x64/
 build/
 *.ipch
-*.obj
 *.exe
 *.pdb
 *.ilk
